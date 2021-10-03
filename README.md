@@ -24,4 +24,4 @@
 
 </div>
 
-  ![Snake animation](https://github.com/Wanderley-de-Melo-Santos/Wanderley-de-Melo-Santos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Wanderley-de-Melo-Santos/Wanderley-de-Melo-Santos/Wanderley-de-Melo-Santos-main/blob/output/github-contribution-grid-snake.svg)

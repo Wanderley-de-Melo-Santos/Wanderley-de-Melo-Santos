@@ -1,9 +1,9 @@
 ## Oiii! Eu sou a Wanderley_Melo
 <div>
   <a href="https://github.com/Wanderley-de-Melo-Santos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wanderley-de-Melo-Santos&show_icons=true&count_private=true/>
-
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true"/>
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="WM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

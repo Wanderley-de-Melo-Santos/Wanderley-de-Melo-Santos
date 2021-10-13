@@ -1,4 +1,5 @@
-<h1 align="center" color="#ffffff"><img src="logo.png">*PROGRAMADORES* BEM VINDOS AO MEU MUNDO!! #WM</h1>
+<img align="center" width="280" hieght="210"  src="logo sem TECH.png">
+<h1 align="center" color="#ffffff"><img src="logo sem TECH.png">*PROGRAMADORES* BEM VINDOS AO MEU MUNDO!!</br>#WM#</h1>
 
 <div align="center">
 

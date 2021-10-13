@@ -1,5 +1,8 @@
-<img align="center" width="280" hieght="210"  src="logo sem TECH.png">
-<h1 align="center" background="linear-gradient(to bottom, #0000FF, #0B0B61)">*	:desktop_computer:PROGRAMADORES:computer_mouse: BEM VINDOS AO MEU MUNDO!!</br>:eight_pointed_black_star:WM:eight_pointed_black_star:</h1>
+<div align="center">
+<img width="280" hieght="210"  src="logo sem TECH.png">
+</div>
+
+<h1 align="center">:desktop_computer:PROGRAMADORES:computer_mouse: BEM VINDOS AO MEU MUNDO!!</br>:eight_pointed_black_star:WM:eight_pointed_black_star:</h1>
 
 <div align="center" style="display: inline_block"><br>
 
@@ -18,12 +21,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact)](https://github.com/Wanderley-de-Melo-Santos/github-readme-stats)
 
 </div>
-  
-  ##
  
-<div padding="0px 30px"> 
+<div> 
 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img padding-left="30px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

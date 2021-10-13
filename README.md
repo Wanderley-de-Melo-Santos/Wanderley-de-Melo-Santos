@@ -1,9 +1,8 @@
 ## Oiii! Eu sou a Wanderley_Melo
 <div display="inline">
+  <a href="https://github.com/Wanderley-de-Melo-Santos">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wanderley-de-Melo-Santos&show_icons=true&count_private=true/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wanderley-de-Melo-Santos)](https://github.com/Wanderley-de-Melo-Santos/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact)](https://github.com/Wanderley-de-Melo-Santos/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>

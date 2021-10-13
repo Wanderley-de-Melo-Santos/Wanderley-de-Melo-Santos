@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Wanderley_Melo
 <div>
   <a href="https://github.com/Wanderley-de-Melo-Santos">
-  <img height="160em" float="rigth" src="https://github-readme-stats.vercel.app/api?Wanderley-de-Melo-Santos&show_icons=true&count_private=true&title_color=#000000&text_color=#000000"/>
+  <img height="160em" float="rigth" src="https://github-readme-stats.vercel.app/api?username=Wanderley-de-Melo-Santos&show_icons=true&count_private=true&title_color=#000000&text_color=#000000"/>
   
   <img height="160em" float="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>

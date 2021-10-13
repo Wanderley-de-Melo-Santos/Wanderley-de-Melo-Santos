@@ -1,9 +1,9 @@
 ## Oiii! Eu sou a Wanderley_Melo
 <div align="center">
   <a href="https://github.com/Wanderley-de-Melo-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true"/>
+  <img height="160em" float="left" src="https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" float="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanderley-de-Melo-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="WM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,5 +24,12 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
+<!--
+<p align="center">
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
+-->
   ![Snake animation](https://github.com/Wanderley-de-Melo-Santos/Wanderley-de-Melo-Santos/Wanderley-de-Melo-Santos/blob/output/github-contribution-grid-snake.svg)
